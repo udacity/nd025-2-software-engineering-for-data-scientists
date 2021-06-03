@@ -168,7 +168,7 @@ def return_figures(countries=country_default):
           mode = 'lines+markers',
           text = text,
           name = country,
-          textposition = 'top'
+          textposition = 'top center'
           )
       )
 
