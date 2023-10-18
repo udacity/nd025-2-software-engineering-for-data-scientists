@@ -21,7 +21,7 @@ pytz==2021.1
 requests==2.25.1
 six==1.16.0
 traitlets==5.0.5
-urllib3==1.26.5
+urllib3==1.26.18
 virtualenv==20.4.07
 virtualenv-clone==0.5.4
 Werkzeug==2.0.1
